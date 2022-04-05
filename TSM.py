@@ -1,9 +1,3 @@
-# CS 3642-W01:  ARTIFICIAL INTELLIGENCE
-# Zac Cardwell
-# 000935263
-# Assignment 2
-# 2-28
-# Zac Cardwell
 
 import random
 import math
